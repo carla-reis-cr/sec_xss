@@ -26,7 +26,7 @@ Certifique-se de ter as seguintes ferramentas instaladas antes de executar as AP
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-projeto.git
+   git clone https://github.com/carla-reis-cr/sec_xss.git
    cd ahm-xss
 
    ```
@@ -50,9 +50,14 @@ Certifique-se de ter as seguintes ferramentas instaladas antes de executar as AP
   ```
 
 3. Front-end
+   ```bash
    cd frontend
    serve
+   ```
+
+```
 
    O frontend estará disponível em http://localhost:3000.
 
 Video -> https://www.youtube.com/watch?v=SQo-K0uO66Q
+```
